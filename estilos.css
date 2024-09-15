@@ -1,0 +1,24 @@
+img{float: left;}
+.wow {float: left;}
+.contenedor {
+    float: left;
+    display: flex;
+    justify-content: right;
+}
+.caja {
+    background-color: aquamarine;
+    color: black;
+}
+nav {
+    background-image: -o-linear-gradient;
+}
+a {
+    background-color: rgba(167, 135, 255, 0.829);
+    height: 10px;
+    width: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding: 5px;
+    color: aliceblue;
+    border-radius: 10px;
+}
